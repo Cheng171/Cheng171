@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 ![可爱极是正义](https://genshin-card.getloli.com/60/81396336.png)
 
 ### 🎵 Spotify
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31jy7bajepmnmdywkpy23bpma5wm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31jy7bajepmnmdywkpy23bpma5wm&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jy7bajepmnmdywkpy23bpma5wm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
