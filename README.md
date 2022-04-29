@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 
 ### ⛄ Genshin Impact
 ![可爱极是正义](https://genshin-card.getloli.com/60/81396336.png)
+
+### 🎵 Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jy7bajepmnmdywkpy23bpma5wm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
