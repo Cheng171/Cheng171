@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cheng171&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
-### Hi there 👋 I'm cramfs28
+### Hi there 👋 I'm CreamDraft
 - 🌱 I’m learning Python ,Java and Android
 - 📫 Email: chjj54@hotmail.com
 - 🍔 Like fast food
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### 📱 Devices
 [![Xperia 1 II](https://img.shields.io/badge/Xperia%201%20II-4F4F4F?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.sonystyle.com.cn/products/xperia/xperia_1m2/xperia_1m2_purple.html)
+[![Xperia 1](https://img.shields.io/badge/Xperia%201-4F4F4F?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=4F4F4F)](https://xperia.sony.jp/xperia/xperia1/)
 [![Xperia X Performance](https://img.shields.io/badge/Xperia%20X%20Performance-4F4F4F?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=4F4F4F)](https://https://xperia.sony.jp/xperia/softbank/x_performance/)
 [![Xiaomi 5](https://img.shields.io/badge/Xiaomi%205-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/mi5)
 [![MECHREVO Z3-Air](https://img.shields.io/badge/MECHREVO%20Z3Air-00BBFF?style=flat-square&labelColor=00BBFF)](https://www.mechrevo.com/)
