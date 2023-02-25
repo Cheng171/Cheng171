@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
 ### 📱 Devices
+[![Galaxy Note 20 Ultra](https://img.shields.io/badge/Galaxy%20Note%2020%20Ultra-4F4F4F?style=flat-square&logo=Samsung&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.samsung.com/cn/business/smartphones/galaxy-note20/)
 [![Xperia 1 II](https://img.shields.io/badge/Xperia%201%20II-4F4F4F?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.sonystyle.com.cn/products/xperia/xperia_1m2/xperia_1m2_purple.html)
 [![Xperia 1](https://img.shields.io/badge/Xperia%201-4F4F4F?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=4F4F4F)](https://xperia.sony.jp/xperia/xperia1/)
 [![Xperia X Performance](https://img.shields.io/badge/Xperia%20X%20Performance-4F4F4F?style=flat-square&logo=Sony&logoColor=FFFFFF&labelColor=4F4F4F)](https://https://xperia.sony.jp/xperia/softbank/x_performance/)
