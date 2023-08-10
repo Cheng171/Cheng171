@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-10-00BBFF?style=flat-square&logo=Windows10&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Deepin](https://img.shields.io/badge/Deepin-008BFF?style=flat-square&logo=deepin&logoColor=FFFFFF&labelColor=008BFF)](https://www.deepin.org)
+[![Deepin](https://img.shields.io/badge/Deepin-V23-008BFF?style=flat-square&logo=deepin&logoColor=FFFFFF&labelColor=008BFF)](https://www.deepin.org)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
 ### 📱 Devices
